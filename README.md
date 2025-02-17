@@ -9,6 +9,23 @@ Each topic covered in the course will have a dedicated Python file for implement
 - **read_images_and_videos**
 - **resizing_and_rescaling**
 - **drawing_shapes_and_putting_text**
+  - creating a blank image to draw on it
+  - painting the blank image a certain colour
+  - painting some parts of the image a certain colour
+  - drawing a rectangle
+  - drawing a rectangle and filling it with colour
+  - drawing a circle
+  - drawing a circle and filling it with colour
+  - drawing a line
+  - writing a text
+- **essential_functions_in_opencv**
+  - converting image to grayscale
+  - blurring an image
+  - creating an edge cascade
+  - dilating an image (using canny image deom edge cascade)
+  - eroding an image (using dilated image)
+  - resizing image
+  - cropping image
 
 ## How to Use This Repo
 Each Python file is named according to the data structure it explores. You can run these files individually to see the implementation of different operations on these data structures.
